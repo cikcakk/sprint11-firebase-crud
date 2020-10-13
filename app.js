@@ -1,13 +1,13 @@
 $(document).ready(function () {
     const config = {
-        apiKey: "AIzaSyBax0O6YZxxillGeClMWAvAayuHNyFfAHw",
-        authDomain: "database-crud-a284f.firebaseapp.com",
-        databaseURL: "https://database-crud-a284f.firebaseio.com",
-        projectId: "database-crud-a284f",
-        storageBucket: "database-crud-a284f.appspot.com",
-        messagingSenderId: "375502239993",
-        appId: "1:375502239993:web:b4d0f12ad0bb2309d58a28",
-        measurementId: "G-CH9CLJ51D9",
+       apiKey: "AIzaSyCV4Og8CIaxlolFhS8utpOSRczjrWLI-L0",
+    authDomain: "firstproject-crud.firebaseapp.com",
+    databaseURL: "https://firstproject-crud.firebaseio.com",
+    projectId: "firstproject-crud",
+    storageBucket: "firstproject-crud.appspot.com",
+    messagingSenderId: "486599286694",
+    appId: "1:486599286694:web:e1d64dbc4f4a148f493967",
+    measurementId: "G-74BWNLCB42"
     };
     firebase.initializeApp(config); //inicializamos firebase
 
