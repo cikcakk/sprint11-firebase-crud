@@ -39,9 +39,9 @@ $(document).ready(function () {
             {
                 targets: -1,
                 defaultContent:
-                    "<div class='wrapper text-center'><div class='btn-group'><button class='btnEditar btn btn-primary' data-toggle='tooltip' title='Editar'>" +
+                    "<div class='wrapper text-center'><div class='btn-group'><button class='btnEditar btn btn-primary' data-toggle='tooltip' title='Szerkesztés'>" +
                     iconoEditar +
-                    "</button><button class='btnBorrar btn btn-danger' data-toggle='tooltip' title='Borrar'>" +
+                    "</button><button class='btnBorrar btn btn-danger' data-toggle='tooltip' title='Törlés'>" +
                     iconoBorrar +
                     "</button></div></div>",
             },
